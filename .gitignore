@@ -1,0 +1,6 @@
+.env
+*.pyc
+__pycache__/
+deliveries.txt
+api_calls.txt
+examples/
